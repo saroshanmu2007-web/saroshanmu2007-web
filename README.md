@@ -11,11 +11,10 @@ I'm a student passionate about programming, problem-solving, and exploring new t
 
 ## 🏆 Coding Platforms
 
-I practice coding and improve my programming skills on these platforms:
+* [LeetCode](https://leetcode.com/u/sarojini2007_S) – Coding practice and problem-solving.
+* [HackerRank](https://www.hackerrank.com/profile/saroshanmu2007) – Programming challenges and skill development.
+* [CodeChef](https://www.codechef.com/users/shadow_snow_82) – Competitive programming practice.
 
-* **LeetCode** – Practicing data structures, algorithms, and coding problems.
-* **HackerRank** – Strengthening programming fundamentals and problem-solving.
-* **CodeChef** – Participating in coding practice and competitive programming.
 
 ## 🛠️ Skills & Interests
 
