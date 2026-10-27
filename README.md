@@ -38,6 +38,8 @@ I'm a student passionate about programming, problem-solving, and exploring new t
 * Build meaningful projects.
 * Continuously learn and grow as a software developer.
 
-## 🤝 Let's Connect
 
-Thanks for visiting my profile! I'm always interested in learning, building, and improving my skills.
+🤝 Let's Connect With Me
+
+- 💼 LinkedIn: "Connect with me" (https://www.linkedin.com/in/sarojini-shanmu-5389673a7/)
+- 📧 Email: "saroshanmu2007@gmail.com" (mailto:saroshanmu2007@gmail.com)
